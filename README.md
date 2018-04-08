@@ -1,3 +1,4 @@
+# Часть 1
 ## 10 самых частотных продолжений фразы "due to the":
 ### https://github.com/LyubovMoiseeva/hw6/blob/master/due%20to%20the.png
 ## Cлово "answer", относящееся к 2 частям речи:
