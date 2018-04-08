@@ -12,3 +12,4 @@
 ### https://github.com/LyubovMoiseeva/hw6/blob/master/question.png
 ## Синонимичные глаголы "stay" и "remain":
 ### https://github.com/LyubovMoiseeva/hw6/blob/master/remain%20stay.png
+#### Исходя из данных таблицы, оба глагола могут употребляться с дополнениями today, friend, faithful, day, calm. Однако только с глаголом "remain употребляются дополнения, выделенные зеленым: mystery, member, patient и т.д., а со "stay" дополнения, выделенные красным: put, proceeding, while и т.д..
